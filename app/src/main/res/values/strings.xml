@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OnTransit</string>
+    <string name="customer">Customer</string>
+    <string name="driver">Driver</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="userName">User Name</string>
+    <string name="signUp">Sign Up</string>
+    <string name="email">email</string>
+
+    <string name="foulType">Fuel Type</string>
+    <string name="cost">Cost/k</string>
+    <string name="driverPhone">Driver Phone</string>
+    <string name="carType">Car Type</string>
+    <string name="carID">Car Number</string>
+    <string name="driverName">Driver Name</string>
+    <string name="foulcost">Fuel Cost/k</string>
+    <string name="title_activity_drivers_map">Driver Map</string>
+    <string name="addcustomer">Add Random Customer</string>
+    <string name="logout">Sign Out</string>
+    <string name="title_activity_customer_map">Map</string>
+</resources>
